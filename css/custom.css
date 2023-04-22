@@ -1,5 +1,8 @@
 h1, h2 {
     text-align: center;
+    text-transform: uppercase;
+    font-family: 'Carlito', sans-serif;
+
 }
 
 #contenido {
@@ -22,4 +25,7 @@ h1, h2 {
     max-width: 400px;
     margin: 0 auto;
     color: white;
+}
+.frase {
+    font-family: 'Carlito', sans-serif;
 }
